@@ -1,0 +1,7 @@
+C:\Users\Sebastian\Source\Repos\FoxBook\FoxBook\bin\Debug\FoxBook.exe.config
+C:\Users\Sebastian\Source\Repos\FoxBook\FoxBook\bin\Debug\FoxBook.exe
+C:\Users\Sebastian\Source\Repos\FoxBook\FoxBook\bin\Debug\FoxBook.pdb
+C:\Users\Sebastian\Source\Repos\FoxBook\FoxBook\obj\Debug\FoxBook.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Source\Repos\FoxBook\FoxBook\obj\Debug\FoxBook.exe
+C:\Users\Sebastian\Source\Repos\FoxBook\FoxBook\obj\Debug\FoxBook.pdb
+C:\Users\Sebastian\Source\Repos\FoxBook\FoxBook\obj\Debug\FoxBook.csproj.AssemblyReference.cache
